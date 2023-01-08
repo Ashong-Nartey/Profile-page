@@ -1,6 +1,6 @@
-# Simple Website Using Github Pages
-Make a simple HTML website and publish it using Github Pages.  
-View example: https://ashong-nartey.github.io/Profile-page/
+# Hi There 👋!
+Welcome to the home page of Obed Tettey Nartey (Ashong-Nartey). This page contains repositories for various computer vision tasks, machine leaning and data science projects. It also contains links to the implementations of scientific works that may have been published elsewhere.    
+Click on this link https://ashong-nartey.github.io/Profile-page/ to view my profile page. 
 
 ## Setup
 - Create a Github account (if you don't have one yet)
